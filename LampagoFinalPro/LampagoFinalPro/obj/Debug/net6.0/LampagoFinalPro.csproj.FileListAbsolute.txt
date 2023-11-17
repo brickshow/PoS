@@ -1,0 +1,14 @@
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\bin\Debug\net6.0\LampagoFinalPro.exe
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\bin\Debug\net6.0\LampagoFinalPro.deps.json
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\bin\Debug\net6.0\LampagoFinalPro.runtimeconfig.json
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\bin\Debug\net6.0\LampagoFinalPro.dll
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\bin\Debug\net6.0\LampagoFinalPro.pdb
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.AssemblyInfoInputs.cache
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.AssemblyInfo.cs
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.csproj.CoreCompileInputs.cache
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.dll
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\refint\LampagoFinalPro.dll
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.pdb
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\LampagoFinalPro.genruntimeconfig.cache
+C:\Users\Brickshow\Desktop\LampagoFinalPro\LampagoFinalPro\obj\Debug\net6.0\ref\LampagoFinalPro.dll
